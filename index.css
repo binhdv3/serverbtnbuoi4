@@ -1,0 +1,21 @@
+.formUpload{
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(150, 150, 154);
+    justify-content: center;
+}
+
+.inpchose{
+    width: 400px;
+    height: 50px;
+    background-color: burlywood;
+}
+
+.inpsub{
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    background-color: burlywood;
+}
